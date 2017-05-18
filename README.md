@@ -12,7 +12,9 @@ First Step: Open https://overseas.alanzjl.com/emoweb
 			(! http is forbidden)
 
 Second Step: 	leave Host and Port to be blank (just press Enter)
-				for User, type in 'emoweb'
-				for password, type in 'common'
+
+for User, type in 'emoweb'
+
+for password, type in 'common'
 
 Third Step: Sign in / sign up in EmoWeb. Press a number from -1 to 3 for each sentence, and follow the instruction displayed on your screen.
