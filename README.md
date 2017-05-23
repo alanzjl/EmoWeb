@@ -70,13 +70,13 @@ This method is recommended. A formatted Python Numpy file ```data.npy``` is gene
 Before using this file, you need to install ```Python``` and ```numpy```
 
 ####If you use Linux
-##### for Ubuntu/Debian,
+#### for Ubuntu/Debian,
 use ```sudo apt-get install python``` to install Python, and use ```sudo apt-get install python-numpy``` to Install Numpy. You can also use ```pip``` to install ```Numpy```.
 
-##### for Archlinux,
+#### for Archlinux,
 use ```sudo pacman -S python``` to install Python, and use ```sudo pacman -S python-numpy``` to Install Numpy. You can also use ```pip``` to install ```Numpy```.
 
-####If you use MacOS
+###If you use MacOS
 You can easily get ```Python``` and ```Numpy``` via ```HomeBrew```. Type
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -85,7 +85,7 @@ in your Terminal to install HomeBrew. More detailed instructions are listed in h
 
 Then install ```Python``` and ```Numpy``` using ```HomeBrew```.
 
-####If you use Windows
+###If you use Windows
 You can use ```PyCharm```, a Python IDE under Windows (it is also supported in Linux and MacOS). Or just download and install ```Python``` and ```Numpy``` from their official websites.
 Personally, I prefer ```WSL: Windows Subsystem for Linux```, which is only supported in ```Windown 10 Pro```.
 
