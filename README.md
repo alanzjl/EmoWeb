@@ -9,24 +9,24 @@ EmoWeb is developed by Jialiang Zhao.
 ## Usage
 Currently no GUI is developed for EmoWeb. Users need to login via GateOne, a web SSH terminal. 
 
-###First Step
+### First Step
 Open https://overseas.alanzjl.com/emoweb 
         	(! http is forbidden)
 
-###Second Step: Login to server
+### Second Step: Login to server
 Leave Host and Port to be blank (just press ```Enter```)
 
 for the ```User``` entry, type in ```emoweb```
 
 for the ```password``` entry, type in ```common```
 
-###Third Step: Login to Emoweb
+### Third Step: Login to Emoweb
 
 If you already have an account, just type in your username and password and start sampling.
 
 If you don't have an account, just pick a username (length>5), and if this user doesn't exit, the system will automatically create this user. Follow the instrucitons to create password for it.
 
-###After That:
+### After That:
 Please press a number from -1 to 3 for each sentence.
 
 **IMPORTANT: Sentences are grouped as sections. Do not quit this web during sampling whithin one section, or your data won't be recorded.**
@@ -69,14 +69,14 @@ This method is recommended. A formatted Python Numpy file ```data.npy``` is gene
 
 Before using this file, you need to install ```Python``` and ```numpy```
 
-####If you use Linux
-#### for Ubuntu/Debian,
+### If you use Linux
+### for Ubuntu/Debian,
 use ```sudo apt-get install python``` to install Python, and use ```sudo apt-get install python-numpy``` to Install Numpy. You can also use ```pip``` to install ```Numpy```.
 
-#### for Archlinux,
+### for Archlinux,
 use ```sudo pacman -S python``` to install Python, and use ```sudo pacman -S python-numpy``` to Install Numpy. You can also use ```pip``` to install ```Numpy```.
 
-###If you use MacOS
+### If you use MacOS
 You can easily get ```Python``` and ```Numpy``` via ```HomeBrew```. Type
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
