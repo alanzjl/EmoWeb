@@ -10,8 +10,7 @@ EmoWeb is developed by Jialiang Zhao.
 Currently no GUI is developed for EmoWeb. Users need to login via GateOne, a web SSH terminal. 
 
 ### First Step
-Open https://overseas.alanzjl.com/emoweb 
-        	(! http is forbidden)
+Open http://www.alanzjl.com/wordpress/index.php/2017/06/02/emoweb/
 
 ### Second Step: Login to server
 Leave Host and Port to be blank (just press ```Enter```)
