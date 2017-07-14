@@ -1,10 +1,14 @@
 # EmoWeb_Tutorial
 Tutorial to EmoWeb, a web-based sampler for emotion detection of dialogues
 
+*Web server has been shudown since course ended. Source code was added to this repo.*
+
 ## Introduction
 EmoWeb is a web-based sampler for emotion detection of dialogues.
 
 EmoWeb is developed by Jialiang Zhao.
+
+**Dataset was moved to data/all.npy**
 
 ## Usage
 Currently no GUI is developed for EmoWeb. Users need to login via GateOne, a web SSH terminal. 
