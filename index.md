@@ -1,4 +1,4 @@
-## EmoWeb_Tutorial
+# EmoWeb_Tutorial
 Tutorial to EmoWeb, a web-based sampler for emotion detection of dialogues
 
 *Web server has been shudown since course ended. Source code was added to this repo.*
@@ -9,6 +9,15 @@ EmoWeb is a web-based sampler for emotion detection of dialogues.
 EmoWeb is developed by Jialiang Zhao.
 
 **Dataset was moved to data/all.npy**
+
+**Sample Data:**
+
+```
+1 / 538		0	0	有人说，世界上有两颗头的蛇，一前一后互为首尾。
+2 / 538		1	2	您确定那不是火车?
+3 / 538		0	2	二者杀伤力有可比性吗?
+```
+
 
 ## Usage
 Currently no GUI is developed for EmoWeb. Users need to login via GateOne, a web SSH terminal. 
