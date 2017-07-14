@@ -1,0 +1,11 @@
+txt/woaiwojia/w2.txt.npy
+txt/woaiwojia/w3.txt.npy
+txt/woaiwojia/w4.txt.npy
+txt/woaiwojia/w5.txt.npy
+txt/woaiwojia/w6.txt.npy
+txt/woaiwojia/w7.txt.npy
+txt/woaiwojia/w8.txt.npy
+txt/woaiwojia/w9.txt.npy
+txt/woaiwojia/w10.txt.npy
+txt/woaiwojia/w11.txt.npy
+txt/woaiwojia/w12.txt.npy

@@ -1,0 +1,10 @@
+================================================================================ 
+Data for cofengkai from EmoWeb
+Here are 0 labelled data in our database
+Thanks for your contribution to this web! 
+This file is auto-generated. 
+Please contact Jialiang Zhao if you have any question 
+================================================================================ 
+
+|	count		|	speaker	|	label	|sentence
+
